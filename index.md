@@ -11,6 +11,12 @@ served behind Basic Auth.
 
 - [[Romulus]] — Romulus, the legendary first king of Rome (753 BC).
 
+## Kits
+
+- [[ave/index|AVE Rebuild Kit]] — the concept set for rebuilding AVE at
+  `ludus/apps/ave`: messenger core, avatar identity, brain connection, storage
+  seam, tabularium, and [[ave/magistratus|Magistratus]].
+
 ## Topics
 
 - **Rome** — founding, kings, and early institutions.
