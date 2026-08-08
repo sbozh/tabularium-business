@@ -11,6 +11,12 @@ served behind Basic Auth.
 
 - [[Romulus]] — Romulus, the legendary first king of Rome (753 BC).
 
+## Registers
+
+- [[developments/index|Developments]] — the lines of development that may be
+  worked on: the trunk and the deploy lines. The only list Magistratus
+  watches; anything unregistered he refuses.
+
 ## Kits
 
 - [[ave/index|AVE Rebuild Kit]] — the concept set for rebuilding AVE at
