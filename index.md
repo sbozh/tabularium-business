@@ -22,6 +22,9 @@ served behind Basic Auth.
 - [[ave/index|AVE Rebuild Kit]] — the concept set for rebuilding AVE at
   `ludus/apps/ave`: messenger core, avatar identity, brain connection, storage
   seam, tabularium, and [[ave/magistratus|Magistratus]].
+- [[itinerarium/index|Itinerarium]] — a mind-map diagram viewer at
+  `ludus/apps/itinerarium` planning infrastructure before it's built,
+  starting with [[itinerarium/voice-to-lead|Voice-to-Lead]].
 
 ## Topics
 
