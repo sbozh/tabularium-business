@@ -1,5 +1,5 @@
 ---
-title: Itinerarium, простыми словами
+title: Itinerarium
 tags: [dude, ru]
 source: vaults/tabularium/itinerarium/index.md
 synced_with: 8a6eaec (2026-08-09)

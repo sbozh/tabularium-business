@@ -1,5 +1,5 @@
 ---
-title: Voice-to-Lead, простыми словами
+title: Voice-to-Lead
 tags: [dude, ru]
 source: vaults/tabularium/itinerarium/voice-to-lead.md
 synced_with: 8a6eaec (2026-08-09)
