@@ -16,6 +16,8 @@ the call itself. This note is the reasoning [[index|Itinerarium]]'s first
 diagram renders, and it is the Epic that funds the worktree campaign to build
 that diagram, the way `ave/magistratus` funds the AVE rebuild campaign today.
 
+*Простыми словами, по-русски: [[../dude/itinerarium/voice-to-lead|dude/itinerarium/voice-to-lead]].*
+
 ## The idea
 
 Transcribe the call, diarize the speakers, extract intent / contact / next

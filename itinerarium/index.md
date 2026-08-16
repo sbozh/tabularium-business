@@ -20,6 +20,8 @@ This kit is planning only. No transcription, no diarization, no CRM writes —
 diagrams that describe intent, for a human and a future coding agent to read
 before any of it is built.
 
+*Простыми словами, по-русски: [[../dude/itinerarium/index|dude/itinerarium/index]].*
+
 ## Why the name
 
 Roman *itineraria* (the *Itinerarium Antonini*, the *Itinerarium
